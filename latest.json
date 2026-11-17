@@ -1,8 +1,8 @@
 {
- "version": "v.2611_15",
+ "version": "v.2611_16",
  "file": "release/cubicle.exe.gz",
- "size": 20098872,
- "exeSize": 36370432,
- "sha256": "f76153f7d175e7dc37b446afe22a9bdfe787837f7d717fe51a067dc461bc25fe",
- "notes": "GitHub 자동 업데이트 시작\n도면 제목 = 1열+2열+3열, 같은 층·구역 페이지로 옮기기\n상부바 층별 재단 · 동전손잡이 · 하단 상호 선택"
+ "size": 20097276,
+ "exeSize": 36372480,
+ "sha256": "8dfcf2fd6b140e71fe6de3ca16fbed2c35e783675e3bd95c54393ec28df0fb61",
+ "notes": "도면 구역 이름: 빈 A·B열은 위쪽 행 값으로\n도면 페이지마다 색상 따로 바꾸기 (도어·간벽·코너·포스트·소변기칸막이)"
 }
